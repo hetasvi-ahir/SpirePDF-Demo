@@ -1,0 +1,10 @@
+The text in textbox is: 
+Is the checkBox checked? Female
+Is the checkBox checked? Female
+The text in radioButtonField is: Yes
+comBoxField items are: 
+ahmedabad
+gandhinagar
+rajkot
+surat
+The selected value in the comBoxField is: ahmedabad
